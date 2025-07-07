@@ -1,4 +1,4 @@
-# ICSC_tutorials
+# International Computer Science Competition (ICSC)
 Comprehensive tutorials for students prepping for the ICSC.
 
 ## Course Outline
